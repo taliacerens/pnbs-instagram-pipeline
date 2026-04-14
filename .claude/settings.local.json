@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(where python:*)",
+      "Bash(where python3:*)",
+      "Bash(ls /c/Python*)",
+      "Read(//c/Users/Taliha Sahin/AppData/Local/Programs/**)",
+      "Bash(cmd.exe /c \"py --version\")",
+      "Bash(cmd.exe /c \"py -3 --version\")",
+      "WebFetch(domain:www.pnbs.fr)",
+      "WebSearch",
+      "WebFetch(domain:my.pnbs.fr)",
+      "WebFetch(domain:www.instagram.com)",
+      "WebFetch(domain:diplomeo.com)"
+    ]
+  }
+}
