@@ -342,4 +342,4 @@ MIT — feel free to fork and adapt for your institution.
 
 ---
 
-*Built by [@talihasahin](https://github.com/talihasahin) for PNBS Campus social media team.*
+*Built by [Taliha Ceren Sahin](https://www.linkedin.com/in/taliha-ceren-sahin-491b74271/) for PNBS Campus social media team.*
